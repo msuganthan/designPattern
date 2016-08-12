@@ -1,0 +1,10 @@
+Where we can apply this pattern:
+================================
+
+	This is common to all the fast-food restaurants and all the children meals. Here everytime the childrens 
+	meals is ordered, the service boy will take a burger, a fries , cold drink and a toy. Now suppose, there 
+	are 3 types of burgers available. Veg, Fish, Chicken, 2 types of cold drinks available and 2 types of toys 
+	are available.
+	
+	So the order might be a combination of one of these, but the process will be the same. One burger, one 
+	cold drink, one fries and one toy. All these items are placed in paper and given to the customer.
