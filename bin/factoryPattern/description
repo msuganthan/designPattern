@@ -1,0 +1,12 @@
+Creational Patterns - Factory Pattern
+======================================
+
+  In another words it is a factory of classes. In simple words if we having a super class and n-subclasses 
+  and based on data provided, we have to return the object of one of the sub-classes, we can use factory pattern.
+  
+When to use a Factory Pattern?
+==============================
+
+  1. When a class does not know which class of object it must create
+  2. In programmers language, you can use factory pattern where you have to create an 
+     object of any on of sub-classes depending on the data provided.

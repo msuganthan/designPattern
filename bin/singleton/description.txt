@@ -1,0 +1,4 @@
+Creational Patterns - Singleton Patterns
+=========================================
+
+	There are some instances in the application where we have to use just one instance of a particular class.
