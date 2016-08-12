@@ -1,0 +1,14 @@
+Creational Patterns - Abstract Factory Pattern
+==============================================
+
+  This pattern is one level is abstraction higher than factory pattern. This means that
+  the abstract factory returns the factory of classes. Like factory pattern returned one
+  of the several sub-classes, this returns such factory which lattern will return one
+  of the sub-classes.
+  
+When to use Abstract Factory Pattern?
+
+  One of the main advantages of Abstract Factory Pattern is that it isolates the 
+  concrete classes that are generated. The names of actual implementing classes are 
+  not needed to be known at the client side. Because of the isolation, you can change 
+  the implementation from one factory to another.
