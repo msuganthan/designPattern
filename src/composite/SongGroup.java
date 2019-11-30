@@ -39,6 +39,6 @@ public class SongGroup extends SongComponent {
 		
 		for(SongComponent songComponent: songComponents) {
 			songComponent.displaySongInfo();
-		})
+		}
 	}
 }
