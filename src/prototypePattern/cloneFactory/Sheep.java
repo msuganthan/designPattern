@@ -1,4 +1,4 @@
-package prototypePattern;
+package prototypePattern.cloneFactory;
 
 public class Sheep implements Animal {
 

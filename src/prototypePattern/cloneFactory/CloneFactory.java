@@ -1,8 +1,8 @@
-package prototypePattern;
+package prototypePattern.cloneFactory;
 
 public class CloneFactory {
 
-	public Animal getClone(Sheep sally) {
+	public Animal getClone(Animal sally) {
 		// TODO Auto-generated method stub
 		return sally.makeCopy();
 	}

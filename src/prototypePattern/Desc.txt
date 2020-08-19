@@ -1,0 +1,7 @@
+1. This pattern lets you to copy the existing objects without making your code
+dependent of their code.
+
+2. Allows cloning objects, even complex ones, without coupling to their specific ones.
+
+================
+I yet to understand 
