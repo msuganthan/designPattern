@@ -1,4 +1,10 @@
 Creational Patterns - Singleton Patterns
 =========================================
 
-	There are some instances in the application where we have to use just one instance of a particular class.
+	This pattern ensures that class has only one instance, while providing a global access to this
+	instance.
+
+	Why would anyone wants to control how many instances a class has?
+
+	    The most common reason is to control the access to some shared resource - for example
+	    database or a file.
