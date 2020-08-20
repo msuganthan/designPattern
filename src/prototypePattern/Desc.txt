@@ -4,4 +4,4 @@ dependent of their code.
 2. Allows cloning objects, even complex ones, without coupling to their specific ones.
 
 ================
-I yet to understand 
+I yet to understand
